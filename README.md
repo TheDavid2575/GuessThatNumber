@@ -1,2 +1,2 @@
 # GuessThatNumber
-A guessing game.
+A number guessing game with Vanilla Javascript
